@@ -39,8 +39,6 @@ To follow along with this project, please install the following dependencies:
 ## Data
 I will be utilizing data from the Olympics, which was originally obtained from Kaggle.
 
-You can download the files used in this project here:
-
 teams.csv: The team-level data used in this project.
 
 
