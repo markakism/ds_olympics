@@ -1,3 +1,6 @@
+## Acknowledgements
+
+This project was developed following the instructions and guidance provided in the video tutorial by Vikas Paruchuri([link-to-video-tutorial](https://www.youtube.com/watch?v=Hr06nSA-qww)). The tutorial provided valuable insights and served as a helpful resource throughout the project development.
 # ds_olympics
 Project: Predicting Medal Counts in the Olympics using Linear Regression Model
 
